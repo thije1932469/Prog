@@ -1,0 +1,7 @@
+M:\visual studio 2017\Projects\LeJeuDu31\LeJeuDu31\bin\Debug\LeJeuDu31.exe.config
+M:\visual studio 2017\Projects\LeJeuDu31\LeJeuDu31\bin\Debug\LeJeuDu31.exe
+M:\visual studio 2017\Projects\LeJeuDu31\LeJeuDu31\bin\Debug\LeJeuDu31.pdb
+M:\visual studio 2017\Projects\LeJeuDu31\LeJeuDu31\obj\Debug\LeJeuDu31.csprojAssemblyReference.cache
+M:\visual studio 2017\Projects\LeJeuDu31\LeJeuDu31\obj\Debug\LeJeuDu31.csproj.CoreCompileInputs.cache
+M:\visual studio 2017\Projects\LeJeuDu31\LeJeuDu31\obj\Debug\LeJeuDu31.exe
+M:\visual studio 2017\Projects\LeJeuDu31\LeJeuDu31\obj\Debug\LeJeuDu31.pdb
