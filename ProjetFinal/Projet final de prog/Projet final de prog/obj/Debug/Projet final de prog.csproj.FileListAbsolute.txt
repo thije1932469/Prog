@@ -1,0 +1,7 @@
+M:\visual studio 2017\Projects\Projet final de prog\Projet final de prog\bin\Debug\Projet final de prog.exe.config
+M:\visual studio 2017\Projects\Projet final de prog\Projet final de prog\bin\Debug\Projet final de prog.exe
+M:\visual studio 2017\Projects\Projet final de prog\Projet final de prog\bin\Debug\Projet final de prog.pdb
+M:\visual studio 2017\Projects\Projet final de prog\Projet final de prog\obj\Debug\Projet final de prog.csprojAssemblyReference.cache
+M:\visual studio 2017\Projects\Projet final de prog\Projet final de prog\obj\Debug\Projet final de prog.csproj.CoreCompileInputs.cache
+M:\visual studio 2017\Projects\Projet final de prog\Projet final de prog\obj\Debug\Projet final de prog.exe
+M:\visual studio 2017\Projects\Projet final de prog\Projet final de prog\obj\Debug\Projet final de prog.pdb
